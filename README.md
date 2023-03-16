@@ -1,7 +1,7 @@
 # SendScriptWhatsAppBR 
 (Baseado no SendScriptWhatsApp de https://github.com/Matt-Fontes/SendScriptWhatsApp, porém esta aqui esta em portugues do Brasil)
 
-Código para enviar o Script inteiro de Shrek ou Shrek 2 em PT-BR para seus "amigos" ou grupos do WhatsApp
+Código para enviar o Script inteiro de Bee Movie, Shrek ou Shrek 2 em PT-BR para seus "amigos" ou grupos do WhatsApp
 
 ## Utilização
 
