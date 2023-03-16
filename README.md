@@ -5,7 +5,13 @@ Código para enviar o Script inteiro de Shrek ou Shrek 2 em PT-BR para seus "ami
 
 ## Utilização
 
-Abra [shrek2SendScript.js](https://github.com/mmalbr/SendScriptWhatsAppBR/blob/master/shrekSendScript.js) ou [shrek2SendScript.js](https://github.com/mmalbr/SendScriptWhatsAppBR/blob/master/shrek2SendScript.js)
+Escolha um destes scripts
+
+ [shrekSendScript.js](https://github.com/mmalbr/SendScriptWhatsAppBR/blob/master/shrekSendScript.js) 
+
+ [shrek2SendScript.js](https://github.com/mmalbr/SendScriptWhatsAppBR/blob/master/shrek2SendScript.js)
+
+ [beeMovieSendScript.js](https://github.com/mmalbr/SendScriptWhatsAppBR/blob/master/beeMovieSendScript.js)
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
