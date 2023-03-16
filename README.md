@@ -13,7 +13,7 @@ Escolha um destes scripts
 
  [beeMovieSendScript.js](https://github.com/mmalbr/SendScriptWhatsAppBR/blob/master/beeMovieSendScript.js)
 
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
+Copie todo o conteúdo de um deles (clique em raw -> ctrl+a -> ctrl+c)
 
 No WhatsApp Web e com a conversa alvo aberta, abra o console do Browser (Ctrl + Shift + J)
 
